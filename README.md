@@ -5,7 +5,7 @@ Example of how to build a docker container with Prophet package. There wasn't to
 
 # Points of Contact
 
-Alexey Butirev, Ken
+[Alexey Butyrev](butirev@gmail.com)
 
 # How to install
 
